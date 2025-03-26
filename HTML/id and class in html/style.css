@@ -2,9 +2,11 @@
     color: red;
 }
 /* . target the class element */
-.bg-yellow{
-    background-color: beige;
+.blue{
+    background-color:beige;
+    color: blue;
 }
-#seconddiv{
-    background-color: bisque;
+#secdiv{
+    background-color: yellow;
+    color: red;
 }
